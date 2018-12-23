@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\PrimeraAsignacion\PrimeraAsignacion\bin\Debug\netcoreapp2.1\PrimeraAsignacion.deps.json
+C:\Users\Usuario\source\repos\PrimeraAsignacion\PrimeraAsignacion\bin\Debug\netcoreapp2.1\PrimeraAsignacion.runtimeconfig.json
+C:\Users\Usuario\source\repos\PrimeraAsignacion\PrimeraAsignacion\bin\Debug\netcoreapp2.1\PrimeraAsignacion.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\PrimeraAsignacion\PrimeraAsignacion\bin\Debug\netcoreapp2.1\PrimeraAsignacion.dll
+C:\Users\Usuario\source\repos\PrimeraAsignacion\PrimeraAsignacion\bin\Debug\netcoreapp2.1\PrimeraAsignacion.pdb
+C:\Users\Usuario\source\repos\PrimeraAsignacion\PrimeraAsignacion\obj\Debug\netcoreapp2.1\PrimeraAsignacion.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\PrimeraAsignacion\PrimeraAsignacion\obj\Debug\netcoreapp2.1\PrimeraAsignacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PrimeraAsignacion\PrimeraAsignacion\obj\Debug\netcoreapp2.1\PrimeraAsignacion.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PrimeraAsignacion\PrimeraAsignacion\obj\Debug\netcoreapp2.1\PrimeraAsignacion.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PrimeraAsignacion\PrimeraAsignacion\obj\Debug\netcoreapp2.1\PrimeraAsignacion.dll
+C:\Users\Usuario\source\repos\PrimeraAsignacion\PrimeraAsignacion\obj\Debug\netcoreapp2.1\PrimeraAsignacion.pdb
